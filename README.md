@@ -1,2 +1,2 @@
-# Yemek-Sipari-Uygulamas-
+# Yemek-Sipari-Uygulaması-
 Yemek siparişi uygulaması içindir.
